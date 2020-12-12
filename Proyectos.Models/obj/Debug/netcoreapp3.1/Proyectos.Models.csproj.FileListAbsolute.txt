@@ -1,0 +1,9 @@
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\bin\Debug\netcoreapp3.1\Proyectos.Models.deps.json
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\bin\Debug\netcoreapp3.1\Proyectos.Models.dll
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\bin\Debug\netcoreapp3.1\Proyectos.Models.pdb
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\obj\Debug\netcoreapp3.1\Proyectos.Models.csprojAssemblyReference.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\obj\Debug\netcoreapp3.1\Proyectos.Models.AssemblyInfoInputs.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\obj\Debug\netcoreapp3.1\Proyectos.Models.AssemblyInfo.cs
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\obj\Debug\netcoreapp3.1\Proyectos.Models.csproj.CoreCompileInputs.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\obj\Debug\netcoreapp3.1\Proyectos.Models.dll
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Models\obj\Debug\netcoreapp3.1\Proyectos.Models.pdb

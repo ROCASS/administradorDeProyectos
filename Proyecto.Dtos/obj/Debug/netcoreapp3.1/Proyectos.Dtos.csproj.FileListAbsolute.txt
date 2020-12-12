@@ -1,0 +1,9 @@
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\bin\Debug\netcoreapp3.1\Proyectos.Dtos.deps.json
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\bin\Debug\netcoreapp3.1\Proyectos.Dtos.dll
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\bin\Debug\netcoreapp3.1\Proyectos.Dtos.pdb
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\obj\Debug\netcoreapp3.1\Proyectos.Dtos.AssemblyInfoInputs.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\obj\Debug\netcoreapp3.1\Proyectos.Dtos.AssemblyInfo.cs
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\obj\Debug\netcoreapp3.1\Proyectos.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\obj\Debug\netcoreapp3.1\Proyectos.Dtos.dll
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\obj\Debug\netcoreapp3.1\Proyectos.Dtos.pdb
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyecto.Dtos\obj\Debug\netcoreapp3.1\Proyectos.Dtos.csprojAssemblyReference.cache

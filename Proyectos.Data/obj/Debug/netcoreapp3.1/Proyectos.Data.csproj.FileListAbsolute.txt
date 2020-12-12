@@ -1,0 +1,15 @@
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\bin\Debug\netcoreapp3.1\Proyectos.Data.deps.json
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\bin\Debug\netcoreapp3.1\Proyectos.Data.runtimeconfig.json
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\bin\Debug\netcoreapp3.1\Proyectos.Data.runtimeconfig.dev.json
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\bin\Debug\netcoreapp3.1\Proyectos.Data.dll
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\bin\Debug\netcoreapp3.1\Proyectos.Data.pdb
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\bin\Debug\netcoreapp3.1\Proyectos.Models.dll
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\bin\Debug\netcoreapp3.1\Proyectos.Models.pdb
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.csprojAssemblyReference.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.AssemblyInfoInputs.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.AssemblyInfo.cs
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.csproj.CoreCompileInputs.cache
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.csproj.CopyComplete
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.dll
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.pdb
+C:\Users\bebet\source\repos\AdministracionDeProyectos\Proyectos.Data\obj\Debug\netcoreapp3.1\Proyectos.Data.genruntimeconfig.cache
